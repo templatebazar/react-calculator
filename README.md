@@ -1,3 +1,9 @@
+# A Beautiful ReactJs Calculator Web App
+
+![thumbnail](https://i.ibb.co/dWMtwYX/react-calculator-youtube-thumbnail.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
